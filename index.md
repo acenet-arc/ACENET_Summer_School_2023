@@ -2,16 +2,16 @@
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 carpentry: "an"    # what kind of Carpentry (must be either "dc" or "swc")
-venue: "ACENET Summer School"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "ACENET Summer School 2022"   # brief name of host site without address (e.g., "Euphoric State University")
 address: "Online"  # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
-country: "Canada"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
-language: "English"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
+country: "ca"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
+language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "na/na"   # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
-humandate: "2021 May 17, 19, 31, June 2, 7, 9, 14, 16, 21, 23, 28, 30"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "2022 May 25, 30, June 1, 6, 8, 13, 15, 20, 22, 27, 29"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "1:00PM - 3:00PM ADT (UTC-3)"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2021-05-17      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2021-06-30        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Ross Dickson, Chris Geroux, Mat Larade, Serguei Vassiliev"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+startdate: 2022-05-25      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2022-06-29        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Ross Dickson, Chris Geroux, Gurpreet Matharoo, Serguei Vassiliev"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["(instructors)"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["ross.dickson@ace-net.ca"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad:    # optional: URL for the workshop Etherpad if there is one
@@ -29,7 +29,7 @@ eventbrite: 148808988691 # optional: alphanumeric key for Eventbrite registratio
 </iframe>
 {% endif %}
 
-<h4>This site contains the general information for the 2021 Summer School in Advanced Research Computing, put on by ACENET.</h4>
+<h4>This site contains the general information for the 2022 Summer School in Advanced Research Computing, put on by ACENET.</h4>
 
 <h2 id="general">General Information</h2>
 
