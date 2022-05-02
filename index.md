@@ -174,14 +174,14 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
 
 <div class="row">
   <div class="col-md-6">
-    <h3> Monday, May 25</h3>
+    <h3> Wednesday, May 25</h3>
     <table class="table table-striped">
       <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_General/">General Overview</a> </td></tr>
       <tr> <td> </td> <td> R. Dickson</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
-    <h3> Wednesday, May 27</h3>
+    <h3> Friday, May 27</h3>
     <table class="table table-striped">
       <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_General/">General Overview</a> </td></tr>
       <tr> <td> </td> <td> R. Dickson</td> </tr>
