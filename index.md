@@ -174,87 +174,87 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
 
 <div class="row">
   <div class="col-md-6">
-    <h3> Monday, May 17</h3>
+    <h3> Monday, May 25</h3>
     <table class="table table-striped">
       <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_General/">General Overview</a> </td></tr>
       <tr> <td> </td> <td> R. Dickson</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
-    <h3> Wednesday, May 19</h3>
+    <h3> Wednesday, May 27</h3>
     <table class="table table-striped">
       <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_General/">General Overview</a> </td></tr>
       <tr> <td> </td> <td> R. Dickson</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
-    <h3> Monday, May 31</h3>
+    <h3> Monday, May 30</h3>
     <table class="table table-striped">
       <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_Dask/">Dask</a> </td></tr>
       <tr> <td> </td> <td> C. Geroux </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
-    <h3> Wednesday, June 2</h3>
+    <h3> Wednesday, June 1</h3>
     <table class="table table-striped">
       <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_Dask/">Dask</a> </td></tr>
       <tr> <td> </td> <td> C. Geroux </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
-    <h3> Monday, June 7</h3>
+    <h3> Monday, June 6</h3>
     <table class="table table-striped">
       <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_OpenMP_ACC/">Open MP Shared Memory</a></td></tr>
       <tr> <td> </td> <td> S. Vassiliev</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
-    <h3> Wednesday, June 9</h3>
+    <h3> Wednesday, June 8</h3>
     <table class="table table-striped">
       <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_OpenMP_ACC/">Open MP Shared Threads</a> </td></tr>
       <tr> <td> </td> <td> S. Vassiliev</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
-    <h3> Monday, June 14</h3>
+    <h3> Monday, June 13</h3>
     <table class="table table-striped">
       <tr> <td> 13:00-15:00 Atlantic</td> <td> Machine Learning: Intro, Classification </td></tr>
-      <tr> <td> </td> <td> M. Larade</td> </tr>
+      <tr> <td> </td> <td> TBD </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
-    <h3> Wednesday, June 16</h3>
+    <h3> Wednesday, June 15</h3>
     <table class="table table-striped">
       <tr> <td> 13:00-15:00 Atlantic</td> <td> Machine Learning: Regression, Neural Networks </td></tr>
-      <tr> <td> </td> <td> M. Larade</td> </tr>
+      <tr> <td> </td> <td> TBD </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
-    <h3> Monday, June 21</h3>
-    <table class="table table-striped">
-      <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_GPGPU/">GPU Programming with CUDA</a> </td></tr>
-      <tr> <td> </td> <td> R. Dickson</td> </tr>
-    </table>
-  </div>
-  <div class="col-md-6">
-    <h3> Wednesday, June 23</h3>
-    <table class="table table-striped">
-      <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://docs.computecanada.ca/wiki/OpenACC_Tutorial">GPU Programming with OpenACC</a> </td></tr>
-      <tr> <td> </td> <td> R. Dickson</td> </tr>
-    </table>
-  </div>
-  <div class="col-md-6">
-    <h3> Monday, June 28</h3>
+    <h3> Monday, June 20</h3>
     <table class="table table-striped">
       <tr> <td> 13:00-15:00 Atlantic</td> <td><a href="https://acenet-arc.github.io/ACENET_Summer_School_MPI/">MPI Programming 1</a></td></tr>
       <tr> <td> </td> <td> G. Matharoo </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
-    <h3> Wednesday, June 30</h3>
+    <h3> Wednesday, June 22</h3>
     <table class="table table-striped">
       <tr> <td> 13:00-15:00 Atlantic</td> <td><a href="https://acenet-arc.github.io/ACENET_Summer_School_MPI/">MPI Programming 2</a></td></tr>
       <tr> <td> </td> <td> G. Matharoo </td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3> Monday, June 27</h3>
+    <table class="table table-striped">
+      <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_GPGPU/">GPU Programming with CUDA</a> </td></tr>
+      <tr> <td> </td> <td> R. Dickson</td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3> Wednesday, June 29</h3>
+    <table class="table table-striped">
+      <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://docs.computecanada.ca/wiki/OpenACC_Tutorial">GPU Programming with OpenACC</a> </td></tr>
+      <tr> <td> </td> <td> R. Dickson</td> </tr>
     </table>
   </div>
 
