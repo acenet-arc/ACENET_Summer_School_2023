@@ -7,7 +7,7 @@ address: "Online"  # full street address of workshop (e.g., "Room A, 123 Forth S
 country: "ca"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "na/na"   # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
-humandate: "2022 May 25, 30, June 1, 6, 8, 13, 15, 20, 22, 27, 29"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "2022 May 25, 27th, 30, June 1, 6, 8, 13, 15, 20, 22, 27, 29"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "1:00PM - 3:00PM ADT (UTC-3)"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2022-05-25      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-06-29        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
