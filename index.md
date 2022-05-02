@@ -7,7 +7,7 @@ address: "Online"  # full street address of workshop (e.g., "Room A, 123 Forth S
 country: "ca"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "na/na"   # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
-humandate: "2022 May 25, 27th, 30, June 1, 6, 8, 13, 15, 20, 22, 27, 29"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "2022 May 25, 27, 30, June 1, 6, 8, 13, 15, 20, 22, 27, 29"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "1:00PM - 3:00PM ADT (UTC-3)"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2022-05-25      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-06-29        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
@@ -15,9 +15,8 @@ instructor: ["Ross Dickson, Chris Geroux, Gurpreet Matharoo, Serguei Vassiliev"]
 helper: ["(instructors)"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["ross.dickson@ace-net.ca"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad:    # optional: URL for the workshop Etherpad if there is one
-eventbrite: 148808988691 # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: 311909619067 # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
-
 
 {% if page.eventbrite %}
 <iframe
@@ -192,27 +191,27 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
     <h3> Monday, May 31</h3>
     <table class="table table-striped">
       <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_Dask/">Dask</a> </td></tr>
-      <tr> <td> </td> <td> M. Larade</td> </tr>
+      <tr> <td> </td> <td> C. Geroux </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3> Wednesday, June 2</h3>
     <table class="table table-striped">
       <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_Dask/">Dask</a> </td></tr>
-      <tr> <td> </td> <td> M. Larade</td> </tr>
+      <tr> <td> </td> <td> C. Geroux </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3> Monday, June 7</h3>
     <table class="table table-striped">
-      <tr> <td> 13:00-15:00 Atlantic</td> <td> Open MP Shared Memory </td></tr>
+      <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_OpenMP_ACC/">Open MP Shared Memory</a></td></tr>
       <tr> <td> </td> <td> S. Vassiliev</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3> Wednesday, June 9</h3>
     <table class="table table-striped">
-      <tr> <td> 13:00-15:00 Atlantic</td> <td> Open MP Shared Threads </td></tr>
+      <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_OpenMP_ACC/">Open MP Shared Threads</a> </td></tr>
       <tr> <td> </td> <td> S. Vassiliev</td> </tr>
     </table>
   </div>
@@ -248,14 +247,14 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
     <h3> Monday, June 28</h3>
     <table class="table table-striped">
       <tr> <td> 13:00-15:00 Atlantic</td> <td><a href="https://acenet-arc.github.io/ACENET_Summer_School_MPI/">MPI Programming 1</a></td></tr>
-      <tr> <td> </td> <td> C. Geroux</td> </tr>
+      <tr> <td> </td> <td> G. Matharoo </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3> Wednesday, June 30</h3>
     <table class="table table-striped">
       <tr> <td> 13:00-15:00 Atlantic</td> <td><a href="https://acenet-arc.github.io/ACENET_Summer_School_MPI/">MPI Programming 2</a></td></tr>
-      <tr> <td> </td> <td> C. Geroux</td> </tr>
+      <tr> <td> </td> <td> G. Matharoo </td> </tr>
     </table>
   </div>
 
