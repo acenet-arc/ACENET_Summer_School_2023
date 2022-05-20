@@ -311,6 +311,7 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
 <h2 id="syllabus">Syllabus</h2>
 
 <div class="row">
+  
   <div class="col-md-6">
     <h3 id="syllabus-parallel"><a href="https://ssvassiliev.github.io/Summer_School_General/">General parallel computing and working at scale</a></h3>
     <ul>
@@ -323,6 +324,18 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
     </ul>
   </div>
   <div class="col-md-6">
+    <h3 id="syllabus-dask"><a href="{{site.repo_pages}}/ACENET_Summer_School_Dask/">Dask: parallel computing with python</a></h3>
+    <ul>
+      <li><a href="{{site.repo_pages}}/ACENET_Summer_School_Dask/reference/">Reference...</a></li>
+    </ul>
+  </div>
+  
+</div>
+
+<div class="row">
+  
+  
+  <div class="col-md-6">
     <h3 id="syllabus-openmp"><a href="https://ssvassiliev.github.io/Summer_School_OpenMP/">OpenMP, shared memory, and threads</a></h3>
     <ul>
       <li>OpenMP</li>
@@ -331,9 +344,7 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
       <li><a href="{{site.repo_pages}}/ACENET_Summer_School_OpenMP/reference/">Reference...</a></li>
     </ul>
   </div>
-</div>
-
-<div class="row">
+  
   <div class="col-md-6">
     <h3 id="syllabus-mpi"><a href="https://acenet-arc.github.io/ACENET_Summer_School_MPI/">Message Passing Interface (MPI)</a></h3>
     <ul>
@@ -341,6 +352,12 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
       <li><a href="{{site.repo_pages}}/ACENET_Summer_School_MPI/reference/">Reference...</a></li>
     </ul>
   </div>
+
+  
+</div>
+
+<div class="row">
+  
   <div class="col-md-6">
     <h3 id="syllabus-gpgpu"><a href="https://acenet-arc.github.io/ACENET_Summer_School_GPGPU/">GPGPU</a></h3>
     <ul>
@@ -348,6 +365,7 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
       <li><a href="{{site.repo_pages}}/ACENET_Summer_School_GPGPU/reference/">Reference...</a></li>
     </ul>
   </div>
+  
 </div>
 
 <hr/>
