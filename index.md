@@ -218,15 +218,15 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
   <div class="col-md-6">
     <h3> Monday, June 13</h3>
     <table class="table table-striped">
-      <tr> <td> 13:00-15:00 Atlantic</td> <td> Machine Learning: Intro, Classification </td></tr>
-      <tr> <td> </td> <td> TBD </td> </tr>
+      <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://github.com/calculquebec/intro-machine-learning"> Machine Learning: Intro, Classification </td></tr>
+      <tr> <td> </td> <td> Lucas Nogueira </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3> Wednesday, June 15</h3>
     <table class="table table-striped">
-      <tr> <td> 13:00-15:00 Atlantic</td> <td> Machine Learning: Regression, Neural Networks </td></tr>
-      <tr> <td> </td> <td> TBD </td> </tr>
+      <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://github.com/calculquebec/intro-machine-learning"> Machine Learning: Regression, Neural Networks </td></tr>
+      <tr> <td> </td> <td> Lucas Nogueira </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
