@@ -346,6 +346,18 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
   </div>
   
   <div class="col-md-6">
+    <h3 id="syllabus-ml"><a href="https://github.com/calculquebec/intro-machine-learning">Machine Learning (ML)</a></h3>
+    <ul>
+      <li>Fundamentals of machine learning, what it is and how it works "under the hood"</li>
+      <li>Use scikit-learn and Python to demonstrate how ML works in practice</li>
+      <li>Neural networks illustrated using PyTorch</li>
+      <li>Scale up a neural network by streamlining the workflow</li>
+      <li>Use GPUs for neural network training</li>
+    </ul>
+  </div>
+
+  
+  <div class="col-md-6">
     <h3 id="syllabus-mpi"><a href="https://acenet-arc.github.io/ACENET_Summer_School_MPI/">Message Passing Interface (MPI)</a></h3>
     <ul>
       <li>MPI</li>
