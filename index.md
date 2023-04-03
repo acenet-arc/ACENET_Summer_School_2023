@@ -9,13 +9,13 @@ language: "en"     # lowercase two-letter ISO language code such as "fr" (see ht
 latlng: "na/na"   # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
 humandate: "2023 May 16, 23, 30, June 6, 13"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:30AM - 11:30AM, 1:00PM - 3:00PM ADT (UTC-3)"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 203-05-16      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2022-06-13        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2023-05-16      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2023-06-13        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Ross Dickson, Chris Geroux, Gurpreet Matharoo, Serguei Vassiliev"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["(instructors)"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["ross.dickson@ace-net.ca"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad:    # optional: URL for the workshop Etherpad if there is one
-eventbrite: 311909619067 # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite:  # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% if page.eventbrite %}
@@ -107,7 +107,7 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
 
 <h3>SSH client</h3>
 <p>
-  You must have an <a href="https://docs.computecanada.ca/wiki/SSH">SSH client</a> installed on your computer, 
+  You must have an <a href="https://docs.alliancecan.ca/wiki/SSH">SSH client</a> installed on your computer, 
   and be able to connect to an Alliance cluster with it.
 </p>
 
@@ -206,7 +206,7 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
     <table class="table table-striped">
       <tr> <td> 09:30-11:30 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_GPGPU/">GPU Programming with CUDA</a> </td></tr>
       <tr> <td> </td> <td> R. Dickson</td> </tr>
-      <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://docs.computecanada.ca/wiki/OpenACC_Tutorial">GPU Programming with OpenACC</a> </td></tr>
+      <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://docs.alliancecan.ca/wiki/OpenACC_Tutorial">GPU Programming with OpenACC</a> </td></tr>
       <tr> <td> </td> <td> R. Dickson</td> </tr>
     </table>
   </div>
