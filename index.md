@@ -2,15 +2,15 @@
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 carpentry: "an"    # what kind of Carpentry (must be either "dc" or "swc")
-venue: "ACENET Summer School 2022"   # brief name of host site without address (e.g., "Euphoric State University")
+venue: "ACENET Summer School 2023"   # brief name of host site without address (e.g., "Euphoric State University")
 address: "Online"  # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "ca"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "na/na"   # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
-humandate: "2022 May 25, 27, 30, June 1, 6, 8, 13, 15, 20, 22, 27, 29"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "1:00PM - 3:00PM ADT (UTC-3)"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2022-05-25      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2022-06-29        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+humandate: "2023 May 16, 23, 30, June 6, 13"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "9:30AM - 11:30AM, 1:00PM - 3:00PM ADT (UTC-3)"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 203-05-16      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2022-06-13        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Ross Dickson, Chris Geroux, Gurpreet Matharoo, Serguei Vassiliev"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["(instructors)"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["ross.dickson@ace-net.ca"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
@@ -28,7 +28,7 @@ eventbrite: 311909619067 # optional: alphanumeric key for Eventbrite registratio
 </iframe>
 {% endif %}
 
-<h4>This site contains the general information for the 2022 Summer School in Advanced Research Computing, put on by ACENET.</h4>
+<h4>This site contains the general information for the 2023 Summer School in Advanced Research Computing, put on by ACENET.</h4>
 
 <h2 id="general">General Information</h2>
 
@@ -108,7 +108,7 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
 <h3>SSH client</h3>
 <p>
   You must have an <a href="https://docs.computecanada.ca/wiki/SSH">SSH client</a> installed on your computer, 
-  and be able to connect to a Compute Canada cluster with it.
+  and be able to connect to an Alliance cluster with it.
 </p>
 
 <!--
@@ -174,85 +174,38 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
 
 <div class="row">
   <div class="col-md-6">
-    <h3> Wednesday, May 25</h3>
+    <h3> Tuesday, May 16</h3>
     <table class="table table-striped">
-      <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_General/">General Overview</a> </td></tr>
-      <tr> <td> </td> <td> R. Dickson</td> </tr>
+      <tr> <td> 09:30-11:30, 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_General/">General Overview</a> </td></tr>
+      <tr> <td> </td> <td>Instructor</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
-    <h3> Friday, May 27</h3>
+    <h3> Tuesday, May 23</h3>
     <table class="table table-striped">
-      <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_General/">General Overview</a> </td></tr>
-      <tr> <td> </td> <td> R. Dickson</td> </tr>
-    </table>
-  </div>
-  <div class="col-md-6">
-    <h3> Monday, May 30</h3>
-    <table class="table table-striped">
-      <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_Dask/">Dask</a> </td></tr>
+      <tr> <td> 09:30-11:30,  13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_Dask/">Dask</a> </td></tr>
       <tr> <td> </td> <td> C. Geroux </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
-    <h3> Wednesday, June 1</h3>
+    <h3> Tuesday, May 30</h3>
     <table class="table table-striped">
-      <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_Dask/">Dask</a> </td></tr>
-      <tr> <td> </td> <td> C. Geroux </td> </tr>
-    </table>
-  </div>
-  <div class="col-md-6">
-    <h3> Monday, June 6</h3>
-    <table class="table table-striped">
-      <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_OpenMP_ACC/">Open MP Shared Memory</a></td></tr>
+      <tr> <td> 09:30-11:30, 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_OpenMP_ACC/">Open MP</a> </td></tr>
       <tr> <td> </td> <td> S. Vassiliev</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
-    <h3> Wednesday, June 8</h3>
+    <h3> Tuesday, June 6</h3>
     <table class="table table-striped">
-      <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_OpenMP_ACC/">Open MP Shared Threads</a> </td></tr>
-      <tr> <td> </td> <td> S. Vassiliev</td> </tr>
-    </table>
-  </div>
-  <div class="col-md-6">
-    <h3> Monday, June 13</h3>
-    <table class="table table-striped">
-      <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://github.com/calculquebec/intro-machine-learning"> Machine Learning: Intro, Classification</a> </td></tr>
-      <tr> <td> </td> <td> Lucas Nogueira </td> </tr>
-    </table>
-  </div>
-  <div class="col-md-6">
-    <h3> Wednesday, June 15</h3>
-    <table class="table table-striped">
-      <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://github.com/calculquebec/intro-machine-learning"> Machine Learning: Regression, Neural Networks</a> </td></tr>
-      <tr> <td> </td> <td> Lucas Nogueira </td> </tr>
-    </table>
-  </div>
-  <div class="col-md-6">
-    <h3> Monday, June 20</h3>
-    <table class="table table-striped">
-      <tr> <td> 13:00-15:00 Atlantic</td> <td><a href="https://acenet-arc.github.io/ACENET_Summer_School_MPI/">MPI Programming 1</a></td></tr>
+      <tr> <td> 09:30-11:30, 13:00-15:00 Atlantic</td> <td><a href="https://acenet-arc.github.io/ACENET_Summer_School_MPI/">MPI Programming</a></td></tr>
       <tr> <td> </td> <td> G. Matharoo </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
-    <h3> Wednesday, June 22</h3>
+    <h3> Tuesday, June 13</h3>
     <table class="table table-striped">
-      <tr> <td> 13:00-15:00 Atlantic</td> <td><a href="https://acenet-arc.github.io/ACENET_Summer_School_MPI/">MPI Programming 2</a></td></tr>
-      <tr> <td> </td> <td> G. Matharoo </td> </tr>
-    </table>
-  </div>
-  <div class="col-md-6">
-    <h3> Monday, June 27</h3>
-    <table class="table table-striped">
-      <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_GPGPU/">GPU Programming with CUDA</a> </td></tr>
+      <tr> <td> 09:30-11:30 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_GPGPU/">GPU Programming with CUDA</a> </td></tr>
       <tr> <td> </td> <td> R. Dickson</td> </tr>
-    </table>
-  </div>
-  <div class="col-md-6">
-    <h3> Wednesday, June 29</h3>
-    <table class="table table-striped">
       <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://docs.computecanada.ca/wiki/OpenACC_Tutorial">GPU Programming with OpenACC</a> </td></tr>
       <tr> <td> </td> <td> R. Dickson</td> </tr>
     </table>
@@ -344,7 +297,7 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
       <li><a href="{{site.repo_pages}}/ACENET_Summer_School_OpenMP/reference/">Reference...</a></li>
     </ul>
   </div>
-  
+  <!--
   <div class="col-md-6">
     <h3 id="syllabus-ml"><a href="https://github.com/calculquebec/intro-machine-learning">Machine Learning (ML)</a></h3>
     <ul>
@@ -355,7 +308,7 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
       <li>Use GPUs for neural network training</li>
     </ul>
   </div>
-
+  -->
   
   <div class="col-md-6">
     <h3 id="syllabus-mpi"><a href="https://acenet-arc.github.io/ACENET_Summer_School_MPI/">Message Passing Interface (MPI)</a></h3>
