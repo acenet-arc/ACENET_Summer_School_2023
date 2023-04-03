@@ -11,7 +11,7 @@ humandate: "2023 May 16, 23, 30, June 6, 13"    # human-readable dates for the w
 humantime: "9:30AM - 11:30AM, 1:00PM - 3:00PM ADT (UTC-3)"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2023-05-16      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2023-06-13        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Ross Dickson, Chris Geroux, Gurpreet Matharoo, Serguei Vassiliev"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Ross Dickson, Chris Geroux, Gurpreet Matharoo, Serguei Vassiliev, Oliver Stueker"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["(instructors)"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["ross.dickson@ace-net.ca"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad:    # optional: URL for the workshop Etherpad if there is one
@@ -177,7 +177,7 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
     <h3> Tuesday, May 16</h3>
     <table class="table table-striped">
       <tr> <td> 09:30-11:30, 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_General/">General Overview</a> </td></tr>
-      <tr> <td> </td> <td>Instructor</td> </tr>
+      <tr> <td> </td> <td>Ross/Serguei?</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
@@ -207,7 +207,7 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
       <tr> <td> 09:30-11:30 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_GPGPU/">GPU Programming with CUDA</a> </td></tr>
       <tr> <td> </td> <td> R. Dickson</td> </tr>
       <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://docs.alliancecan.ca/wiki/OpenACC_Tutorial">GPU Programming with OpenACC</a> </td></tr>
-      <tr> <td> </td> <td> R. Dickson</td> </tr>
+      <tr> <td> </td> <td> O. Stueker</td> </tr>
     </table>
   </div>
 
