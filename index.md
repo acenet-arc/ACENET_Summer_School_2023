@@ -177,7 +177,7 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
     <h3> Tuesday, May 16</h3>
     <table class="table table-striped">
       <tr> <td> 09:30-11:30, 13:00-15:00 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_General/">General Overview</a> </td></tr>
-      <tr> <td> </td> <td>Ross/Serguei?</td> </tr>
+      <tr> <td> </td> <td>R. Dickson</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
@@ -205,7 +205,7 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
     <h3> Tuesday, June 13</h3>
     <table class="table table-striped">
       <tr> <td> 09:30-11:30 Atlantic</td> <td> <a href="https://acenet-arc.github.io/ACENET_Summer_School_GPGPU/">GPU Programming with CUDA</a> </td></tr>
-      <tr> <td> </td> <td> R. Dickson</td> </tr>
+      <tr> <td> </td> <td> O. Stueker</td> </tr>
       <tr> <td> 13:00-15:00 Atlantic</td> <td> <a href="https://docs.alliancecan.ca/wiki/OpenACC_Tutorial">GPU Programming with OpenACC</a> </td></tr>
       <tr> <td> </td> <td> O. Stueker</td> </tr>
     </table>
