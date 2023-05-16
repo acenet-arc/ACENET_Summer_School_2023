@@ -213,7 +213,7 @@ OpenMP, GPGPU, and MPI programming, and machine learning.
 
   <h3 id="OfficeHours">Office hours</h3>
   <p>Instructional staff will be available in the Zoom room 
-    between the hours of 10:30 AM and noon (Atlantic time) each Friday 
+    between the hours of 10:30 AM and 11:30 AM (Atlantic time) each Friday 
     to answer questions or provide help with exercises or technical issues related to the School.
   </p>
   <p>You may also contact the instructors and request to schedule a meeting at any other time,
